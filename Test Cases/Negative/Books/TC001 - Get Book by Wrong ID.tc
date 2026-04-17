@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>gagal memunculkan detail buku karena id yang di input tidak ada</description>
+   <name>TC001 - Get Book by Wrong ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>961790fb-a108-4394-81d2-76cbaac81e5d</testCaseGuid>
+</TestCaseEntity>

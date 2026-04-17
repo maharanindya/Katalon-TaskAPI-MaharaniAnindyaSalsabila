@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>berhasil menambahkan data buku</description>
+   <name>TC002 - Add Book Wrong Type Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a15ad3e6-ab2d-45e4-aae8-a95ab7f46d13</testCaseGuid>
+</TestCaseEntity>

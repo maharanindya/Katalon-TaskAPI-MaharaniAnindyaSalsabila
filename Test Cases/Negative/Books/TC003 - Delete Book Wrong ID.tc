@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>gagal menghapus data buku karena id salah</description>
+   <name>TC003 - Delete Book Wrong ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53a3229a-fc9a-477a-907d-439fd39175ea</testCaseGuid>
+</TestCaseEntity>

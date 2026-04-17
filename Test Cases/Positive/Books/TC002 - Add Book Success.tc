@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>berhasil menambahkan data buku</description>
+   <name>TC002 - Add Book Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1994627-7aff-4612-90aa-43c5bfb7f707</testCaseGuid>
+</TestCaseEntity>

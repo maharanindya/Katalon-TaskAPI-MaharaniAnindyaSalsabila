@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>berhasil menghapus data buku</description>
+   <name>TC003 - Delete Book Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>950a82e7-7310-4167-9c3a-7964a0195af0</testCaseGuid>
+</TestCaseEntity>

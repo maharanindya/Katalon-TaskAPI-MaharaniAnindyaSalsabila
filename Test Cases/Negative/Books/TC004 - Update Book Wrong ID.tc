@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>update data buku berdasarkan id</description>
+   <name>TC004 - Update Book Wrong ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47c4cf8d-7a5b-4ecb-8037-90eeeaf890f0</testCaseGuid>
+</TestCaseEntity>

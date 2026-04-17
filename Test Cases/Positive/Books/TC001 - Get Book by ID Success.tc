@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>berhasil memunculkan detail buku berdasarkan id</description>
+   <name>TC001 - Get Book by ID Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc51d353-649b-4dd3-9515-b0758085a02f</testCaseGuid>
+</TestCaseEntity>

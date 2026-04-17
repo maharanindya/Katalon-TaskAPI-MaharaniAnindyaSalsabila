@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>update data buku berdasarkan id</description>
+   <name>TC004 - Update Book Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd2eaa25-906d-40f1-bb6e-786ffb638840</testCaseGuid>
+</TestCaseEntity>
